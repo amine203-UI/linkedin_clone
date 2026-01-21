@@ -54,9 +54,3 @@ npm run build
 ```shell
 npm run start
 ```
-
-👨‍💻 Author
-Amine Ould Medjeber
-Full-Stack Developer | Node.js • React • MongoDB • Express.js
-📧 [ouldmedjeberamine@gmail.com]
-🌐 [www.linkedin.com/in/amine-medjeber]
